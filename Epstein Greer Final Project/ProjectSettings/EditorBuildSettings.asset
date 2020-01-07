@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/00 Splash Screen.unity
+    guid: 7e19ef4dcae9cc147ad3a2e5333e2739
+  - enabled: 1
+    path: Assets/Scenes/01 Start Menu.unity
+    guid: 2be8ca1c9644f2945bfab08cef4a1e3c
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/f81811ccee65701498ebdfd68aea8831
+    guid: f81811ccee65701498ebdfd68aea8831
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/02 Overworld.unity
+    guid: 64d922d4ed221004c945930322409afa
+  - enabled: 1
+    path: Assets/Scenes/03 Level Desktop.unity
+    guid: 2be5213619fdd6a4d9ed014f52fd99e4
+  - enabled: 1
+    path: Assets/Scenes/04 Overworld v2.unity
+    guid: 61f3a32ed19d79046a1301571ad5eea1
+  - enabled: 1
+    path: Assets/Scenes/99 Credits.unity
+    guid: f14e856707eb52a41bbde91aaa9b04bc
+  - enabled: 1
+    path: Assets/Scenes/98 Devroom.unity
+    guid: e5845cd528d0bff4aa5cdc8f71e89fe4
+  m_configObjects: {}
